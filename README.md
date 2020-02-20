@@ -1,6 +1,6 @@
 # SuricataSidMap
 
-**SuricataSidMap** is a global sidmap of all public Suricata rulesets *(aprox 100.000 rules)*. It can be used as a manual reference file or to feed a system. Commercial rulesets that make their sidmap available are also included.
+**SuricataSidMap** is a global sidmap of all public Suricata rulesets *(aprox 93.000 rules)*. It can be used as a manual reference file or to feed a system. Commercial rulesets that make their sidmap available are also included.
 
 # Where do I get it?
 
