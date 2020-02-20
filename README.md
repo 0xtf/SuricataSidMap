@@ -4,7 +4,7 @@
 
 # Where do I get it?
 
-The file is available at https://d1ph5fknnx4sb9.cloudfront.net/signatures.txt and the file is updated daily. 
+* https://d1ph5fknnx4sb9.cloudfront.net/signatures.txt (updated daily) 
 
 # Rulesets
 
