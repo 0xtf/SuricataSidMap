@@ -10,7 +10,7 @@
 
 The following are the rulesets present in the sidmap. If I missed something, feel free to let me know.
 
-* [Emerging Threats Pro](https://rules.emergingthreats.net/sidmap/complete-sidmap.txt) *(we don't generate genered a sidmap of the ruleset itself, but rather use what ET makes [available](https://rules.emergingthreats.net/sidmap/complete-sidmap.txt))*
+* [Emerging Threats Pro](https://rules.emergingthreats.net/sidmap/complete-sidmap.txt) *(we don't generate a sidmap of the ruleset itself, but rather use what ET makes [available](https://rules.emergingthreats.net/sidmap/complete-sidmap.txt))*
 * [Abuse.ch TLS](https://sslbl.abuse.ch/blacklist/sslblacklist_tls_cert.rules)
 * [Abuse.ch JA3](https://sslbl.abuse.ch/blacklist/ja3_fingerprints.rules)
 * [Abuse.ch IP Blacklist](https://sslbl.abuse.ch/blacklist/sslipblacklist.rules)
