@@ -4,7 +4,7 @@
 
 # Where do I get it?
 
-* https://d1ph5fknnx4sb9.cloudfront.net/signatures.txt (updated daily) 
+* https://lawmaker.cloud/signatures.txt (updated daily)
 
 # Rulesets
 
